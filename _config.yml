@@ -16,10 +16,10 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang: en
+lang: ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: 조금더 천천히
+title: 개발팀 막내
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description: >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: 아주 조금씩 공부하고 있는 주니어 개발자 입니다.
+tagline: 아주 조금씩 공부하고 있는 주니어 개발자 입니다👶
 
 # A list of keywords for your blog
 keywords: []
@@ -36,7 +36,7 @@ keywords: []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/logo.png
+logo: /assets/img/me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
