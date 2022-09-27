@@ -28,7 +28,7 @@ description: >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: 아주 조금씩 공부하고 있는 주니어 개발자 입니다👶
+tagline: 아주 조금씩 공부하고 있는 주니어 개발자 입니다. 👶
 
 # A list of keywords for your blog
 keywords: []
@@ -331,7 +331,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: -PAJzk6aRv0K2siimJIZo4F8jh2Wc3yroo4nkr92vfQ
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
