@@ -332,6 +332,8 @@ plugins:
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
 google_site_verification: -PAJzk6aRv0K2siimJIZo4F8jh2Wc3yroo4nkr92vfQ
+naver-site-verification: 149fc714f5a926dc920829effc630020b88d532a
+/>
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
